@@ -6,6 +6,18 @@ body {
   padding: 0;
 }
 
+a{
+  color: green;
+}
+
+a:hover{
+  background-color: yellow;
+}
+
+a:active{
+  color: white;
+}
+
 h1 {
   text-align: center;
   color: white;
